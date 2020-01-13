@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    padding: 2rem 0;
+}
